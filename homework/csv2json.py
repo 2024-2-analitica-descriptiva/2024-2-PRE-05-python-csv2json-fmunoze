@@ -1,4 +1,3 @@
-
 import csv
 import json
 """Script para convertir un archivo CSV a JSON"""
@@ -42,4 +41,3 @@ def app():
 
 
 app()
-
